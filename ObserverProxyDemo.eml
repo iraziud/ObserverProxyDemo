@@ -3,4 +3,8 @@
 	<output-test url="file://$MODULE_DIR$/out/test/ObserverProxyDemo"/>
 	<exclude-output/>
 	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="javax.servlet:servlet-api:2.5" value="project"/>
+		<level name="org.eclipse.jetty:test-jetty-servlet:7.6.0.RC4" value="project"/>
+	</levels>
 </component>

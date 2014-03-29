@@ -2,5 +2,7 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javax.servlet:servlet-api:2.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.eclipse.jetty:test-jetty-servlet:7.6.0.RC4"/>
 	<classpathentry kind="output" path="out/production/ObserverProxyDemo"/>
 </classpath>
