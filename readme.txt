@@ -1,4 +1,4 @@
-#Comp 473 Project 3
+## Comp 473 Project 3
 
 This project illustrates use of the Observer design pattern along with the Proxy Design pattern.
 
