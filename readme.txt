@@ -1,4 +1,6 @@
-This project illustrates use of the Observer design patter along with the Proxy Design pattern.
+#Comp 473 Project 3
+
+This project illustrates use of the Observer design pattern along with the Proxy Design pattern.
 
 To demonstrate use of observer design pattern, we have considered the example of the stock market.
 In stock markets, there are number of stocks listed in the market and there are many stock holders
