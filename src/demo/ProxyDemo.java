@@ -3,7 +3,7 @@ package demo;
 import proxy.StockProxy;
 
 /**
- * Created by Irfan on 27-03-14.
+ * @author zainmaqsood, irfanraziuddin
  */
 public class ProxyDemo {
 

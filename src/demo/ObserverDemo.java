@@ -4,7 +4,7 @@ import observer.Stock;
 import observer.StockObserver;
 
 /**
- * Created by Irfan on 27-03-14.
+ * @author zainmaqsood, irfanraziuddin
  */
 public class ObserverDemo {
     public static void main(String[] args) {

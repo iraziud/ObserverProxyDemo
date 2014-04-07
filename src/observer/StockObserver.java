@@ -1,7 +1,7 @@
 package observer;
 
 /**
- * Created by Irfan on 27-03-14.
+ * @author zainmaqsood, irfanraziuddin
  */
 public class StockObserver implements Observer {
     private String name;

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Irfan on 27-03-14.
+ * @author zainmaqsood, irfanraziuddin
  */
 public class Stock implements Observable {
     private List<Observer> observers;
